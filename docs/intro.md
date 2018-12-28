@@ -1,4 +1,4 @@
-### Motivation: 
+## Motivation: 
 So this is my last semester in university.
 I currently hate myself because I haven't done anything
 I have 5 courses and 0 job but still did so bad on my courses. I can compare myself to someone else who may not have the same opportunity as I do

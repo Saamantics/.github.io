@@ -10,12 +10,10 @@ What I hope to see in the future despite the use of visual aid
 
 <ul>
   {% for post in site.posts %}
-    <li>
+  <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-
-    </li>
-    </li>
-  {% endfor%}
+  </li>
+  {% endfor %}
 </ul>
   
 <ul>

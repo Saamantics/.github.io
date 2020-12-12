@@ -9,7 +9,7 @@ I'm interested in different topics that satiate my boredom from time to time. Bu
 What I hope to see in the future despite the use of visual aid
 
 <ul>
-  {$ for post in site.posts %}
+  {% for post in site.posts %}
   <li>
     <a href="{{post.url}}">{{post.title}}</a>
   </li>

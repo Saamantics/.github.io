@@ -16,4 +16,6 @@ What I hope to see in the future despite the use of visual aid
   {% endfor%}
 </ul>
   
-  
+<ul>
+  <li><a href ="https://saamantics.github.io/Igor-without-the-hard-r/_posts">New posts</a></li>
+</ul>

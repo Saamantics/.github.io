@@ -19,3 +19,8 @@ What I hope to see in the future despite the use of visual aid
 <ul>
   <li><a href ="https://saamantics.github.io/Igor-without-the-hard-r/_posts">New posts</a></li>
 </ul>
+
+# Interested/ Themes for the year 2021
+<b>
+  My plan is to listen to Schubert and get a good understanding of his orchestral works, his vocal works as well as his early and late period stages.
+</b>

@@ -36,4 +36,5 @@ iii) The Mountain- where the rich people live, overlooking all of steel town.
 points of contention: road down the mountain. Stealing the idea of japanese drifters where they learn to drift in the mountains, what all the rich people up the mountain and the poor people in downtown is the love of speed. rich people ride very fancy nice cars, while downtown rides cars they stole or junk cars that were heavily modded.
 Lots of deaths from fights, drifting down the mountain and losing control and falling down the cliffs, etc.
 
-
+# random thought: 
+the Korean word 증 if you think about it then it looks like a pi sign divided by 0. And what's funny is that 증명 means prove in Korean. So like prove pi over 0. 

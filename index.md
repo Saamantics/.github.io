@@ -30,8 +30,10 @@ What I hope to see in the future despite the use of visual aid
 Similar setting to Hamilton, Ont.
 3 components: 
 i) The university- high tech hub investing in technology, with emphasis in human cyb, such as health, hands and hearing plus tech
+-there's a hangout place there called milforth. Mills-fourth floor throwback
 ii) Downtown- sketchy plus industrial which is where the stereotypical cyber punk comes in. Instead of loss of industry, big accident causing many disabled people who need cybernetic enhancements. Lots of steel involved, outfits are very industrial vibez.
 iii) The Mountain- where the rich people live, overlooking all of steel town.
+
 
 points of contention: road down the mountain. Stealing the idea of japanese drifters where they learn to drift in the mountains, what all the rich people up the mountain and the poor people in downtown is the love of speed. rich people ride very fancy nice cars, while downtown rides cars they stole or junk cars that were heavily modded.
 Lots of deaths from fights, drifting down the mountain and losing control and falling down the cliffs, etc.

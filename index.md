@@ -40,3 +40,6 @@ Lots of deaths from fights, drifting down the mountain and losing control and fa
 
 # random thought: 
 the Korean word 증 if you think about it then it looks like a pi sign divided by 0. And what's funny is that 증명 means prove in Korean. So like prove pi over 0. 
+
+pant shirts, with the pockets at the chest area
+

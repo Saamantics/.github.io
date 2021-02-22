@@ -45,3 +45,5 @@ pant shirts, with the pockets at the chest area
 
 Why can't we have people have autotune on them everytime they talk? like a speaker that looks like a mask that talks in a different tune for them?
 Even better, a theremin controlled voice changer. ooh :o.
+kinda like the link below but not as stupid sounding:
+https://hackaday.com/2019/07/09/the-theremin-gets-a-voice/

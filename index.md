@@ -44,4 +44,4 @@ the Korean word 증 if you think about it then it looks like a pi sign divided b
 pant shirts, with the pockets at the chest area
 
 Why can't we have people have autotune on them everytime they talk? like a speaker that looks like a mask that talks in a different tune for them?
-
+Even better, a theremin controlled voice changer. ooh :o.

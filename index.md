@@ -47,3 +47,5 @@ Why can't we have people have autotune on them everytime they talk? like a speak
 Even better, a theremin controlled voice changer. ooh :o.
 kinda like the link below but not as stupid sounding:
 https://hackaday.com/2019/07/09/the-theremin-gets-a-voice/
+
+Nicknames: Samlet, standard deviation- sigma

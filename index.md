@@ -52,3 +52,5 @@ Nicknames: Samlet, standard deviation- sigma
 
 I care about us- icarus
 A video/ photo story about a relationship where one side gives more than the other, bringing them too close to the sun and being burned. Plus there can be the whole symbolism of falling into the sea, aka plenty of fish in the sea
+
+Gundam for 3d printing. So make a website/ app where you can build your own mecha but you have to pay for the template.

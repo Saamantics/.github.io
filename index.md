@@ -49,3 +49,6 @@ kinda like the link below but not as stupid sounding:
 https://hackaday.com/2019/07/09/the-theremin-gets-a-voice/
 
 Nicknames: Samlet, standard deviation- sigma
+
+I care about us- icarus
+A video/ photo story about a relationship where one side gives more than the other, bringing them too close to the sun and being burned. Plus there can be the whole symbolism of falling into the sea, aka plenty of fish in the sea

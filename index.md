@@ -54,3 +54,5 @@ I care about us- icarus
 A video/ photo story about a relationship where one side gives more than the other, bringing them too close to the sun and being burned. Plus there can be the whole symbolism of falling into the sea, aka plenty of fish in the sea
 
 Gundam for 3d printing. So make a website/ app where you can build your own mecha but you have to pay for the template.
+
+Toy story: the life. A short film about a relationship where one person uses the other. One person is being used as a toy, made alive only by the other person, feeling empty without them. Eventually they are discarded. So either can make a new story about this or create a film critique article on toy story about it.

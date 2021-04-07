@@ -56,3 +56,7 @@ A video/ photo story about a relationship where one side gives more than the oth
 Gundam for 3d printing. So make a website/ app where you can build your own mecha but you have to pay for the template.
 
 Toy story: the life. A short film about a relationship where one person uses the other. One person is being used as a toy, made alive only by the other person, feeling empty without them. Eventually they are discarded. So either can make a new story about this or create a film critique article on toy story about it.
+
+04-07 ideas: a facemask with shades on them.
+a company that makes anime and manga references while being subtle and hidden so that only those in the know will recognize it.
+I heard it from reddit or somewhere how the most genius thing samsung did was market themselves as the alternative. In a video where they're interviewing celebrities they ask them if they like apple or samsung. All of them choose apple, no question but they only acknowledge samsung as the competitior and lg or pixels aren't in the conversation. 

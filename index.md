@@ -25,6 +25,9 @@ What I hope to see in the future despite the use of visual aid
   My plan is to listen to Schubert and get a good understanding of his orchestral works, his vocal works as well as his early and late period stages.
 </b>
 
+<b>
+  big burn: You never disappoint, So&So. You're never right, but you never disappoint.
+</b>
 
 # Storyline Setting: Hammertown kinda cyber punkish but mechanical.
 Similar setting to Hamilton, Ont.

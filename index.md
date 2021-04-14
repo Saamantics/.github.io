@@ -62,4 +62,7 @@ Toy story: the life. A short film about a relationship where one person uses the
 
 04-07 ideas: a facemask with shades on them.
 a company that makes anime and manga references while being subtle and hidden so that only those in the know will recognize it.
-I heard it from reddit or somewhere how the most genius thing samsung did was market themselves as the alternative. In a video where they're interviewing celebrities they ask them if they like apple or samsung. All of them choose apple, no question but they only acknowledge samsung as the competitior and lg or pixels aren't in the conversation. 
+I heard it from reddit or somewhere how the most genius thing samsung did was market themselves as the alternative. In a video where they're interviewing celebrities they ask them if they like apple or samsung. All of them choose apple, no question but they only acknowledge samsung as the competitior and lg or pixels aren't in the conversation.
+
+bamboones
+clothing made with bamboo silk, imitating kapital wit hthe bones but instead of bones bamboo like in spongebob house.
